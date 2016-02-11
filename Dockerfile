@@ -1,4 +1,4 @@
-FROM thewtex/jupyter-notebook-debian:latest
+FROM insighttoolkit/simpleitk-notebooks:latest
 MAINTAINER Matt McCormick <matt.mccormick@kitware.com>
 
 USER root
